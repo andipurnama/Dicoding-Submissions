@@ -1,0 +1,16 @@
+{ 
+    "name" : "MyPangandaran Lite",
+    "short_name" : "MyPangandaran",
+    "description" : "Semua info tentang pangandaran ada disini [soon]",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#00838f",
+    "theme_color" : "#00838f",
+    "icons" : [
+        {
+            "src" : "icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
